@@ -1,5 +1,11 @@
-### Hi there 👋
+## Hi there, I'm Mohamed Abdulnassir 👋 😃
 
+- 🎓 BSc, Computer Science and Engineering, expected graduation january, 2024.
+- 💼 Currently working on a website for a customer, Acke Städ AB.
+- 👨🏾‍💻 Visit my [website](https://mohamedabdulnassir.vercel.app).
+- 💡 Open for collaborating on projects, and feedback on my work.
+- 📖 Currently learning fullstack web development.
+- 📭 Email: mohabdul96@hotmail.com
 <!--
 **moeabdulnas/moeabdulnas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
