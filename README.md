@@ -1,7 +1,6 @@
 ## Hi there, I'm Mohamed Abdulnassir 👋 😃
 
 - 🎓 BSc, Computer Science and Engineering, expected graduation january, 2024.
-- 💼 Currently working on a website for a customer, Acke Städ AB.
 - 👨🏾‍💻 Visit my [website](https://mohamedabdulnassir.netlify.app).
 - 💡 Open for collaborating on projects, and feedback on my work.
 - 📖 Currently learning fullstack web development.
