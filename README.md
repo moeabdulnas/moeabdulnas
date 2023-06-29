@@ -2,8 +2,8 @@
 
 - 🎓 BSc, Computer Science and Engineering, expected graduation january, 2024.
 - 👨🏾‍💻 Visit my [website](https://mohamedabdulnassir.netlify.app).
-- 💡 Open for collaborating on projects, and feedback on my work.
-- 📖 Currently learning fullstack web development.
+- 💡 Open for work, collaborating on projects, and feedback on my projects.
+- 📖 Apart from things I've learned at Linköpin University, I'm currently learning fullstack web development.
 - 📭 Email: mohabdul96@hotmail.com
 <!--
 **moeabdulnas/moeabdulnas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
