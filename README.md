@@ -1,6 +1,6 @@
 ## Hi there, I'm Mohamed Abdulnassir 👋 😃
 
-- 🎓 BSc, Computer Science and Engineering, graduating March 2024.
+- 🎓 BSc, Computer Science and Engineering, graduating May 2024.
 - 👨🏾‍💻 Visit my [website](https://mohamedabdulnassir.netlify.app).
 - 💡 Open for work, collaborating on projects, and feedback on my projects.
 - 📭 Email: mohabdul96@hotmail.com
