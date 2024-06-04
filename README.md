@@ -1,8 +1,7 @@
 ## Hi there, I'm Mohamed Abdulnassir 👋 😃
 
-- 🎓 BSc, Computer Science and Engineering, graduating May 2024.
-- 👨🏾‍💻 Visit my [website](https://mohamedabdulnassir.netlify.app).
-- 💡 Open for work, collaborating on projects, and feedback on my projects.
+- 🧑‍💼 Fullstack Develop at Field Sweden AB
+- 🎓 BSc, Computer Science and Engineering.
 - 📭 Email: mohabdul96@hotmail.com
 <!--
 **moeabdulnas/moeabdulnas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
